@@ -3,3 +3,6 @@ Este archivo es para estudiar git
 Estamos realizando las segundas  pruebas
 
 primera prueba realizando cambios
+ 
+ segunda  prueba Omar Flores Herrera
+ 
