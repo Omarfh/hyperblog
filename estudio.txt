@@ -1,0 +1,3 @@
+Este archivo es para estudiar git 
+
+Estamos realizando las primera pruebas
