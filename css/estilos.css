@@ -3,6 +3,9 @@ body
     color:  #333;
     text-align: center;
     font-family: "Arial";
+    font-size: 10px;
+    margin: 0;
+    padding: 0;
 }
 #container
 {
@@ -15,5 +18,5 @@ body
 #container
 }    
 
-     font-size: 22px;
+     font-size: 23px;
 }
